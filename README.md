@@ -1,4 +1,5 @@
 Arabic Numerals Converter
 =========================
 
-This programmer converts Roman numerals into their Arabic numeral equivalents.
+This programme converts Roman numerals into their Arabic numeral equivalents.
+To run: '''ruby arabic.rb'''
